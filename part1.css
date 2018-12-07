@@ -1,0 +1,7 @@
+h1{color:green;}
+h4{color:blue; font-weight:bold;} 
+p{margin-left:1000px}
+span.ocean{color:blue; font-weight:bold;}
+span.beach{color:yellow; background-color: blue}
+p:nth-of-type(3){background-color: yellow}
+body{background-image: url("sailboat.jpg"); background-repeat: no-repeat;}
